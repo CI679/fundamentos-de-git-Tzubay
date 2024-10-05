@@ -1,3 +1,7 @@
+Hola, es un placer, y estoy modificando mi README.md para presentarme
+Soy Eduardo W Morales y este es un README con indicaciones de pasos a seguir
+Seguiremos cada paso para aprender lo necesario de git y github y sus herramientas.
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LEBcL8fR)
 # :wave: The Basics of GitHub 
 
